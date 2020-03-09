@@ -1,6 +1,0 @@
-name: Qiskitenv
-dependencies:
-- python=3
-- pip=18
--pip:
-  -qiskit
